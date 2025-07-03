@@ -1,0 +1,37 @@
+Open Bitbucket
+
+go to url
+
+select multiple branches
+
+click clone copy url
+
+search CMA 2.0 test config
+
+now in master, search for yml file
+
+(each api have their individual yml file)
+
+go to spring tool suit
+
+in STS change perspective to git
+
+click open
+
+click open git repository
+
+(their will be password related to bitbucket)
+
+then click on next
+
+(all branches will reflect here)
+(if you want to clone all branch you can select all or if need any specific branch then deselect all and select only specific branch by searching)
+
+click on next
+
+select directory and click finish
+
+once clone is done
+
+right click > import maven projects > click finish
+
